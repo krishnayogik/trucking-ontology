@@ -1,0 +1,21 @@
+customer_id,name,contact_name,contact_email,contact_phone,address,city,state,industry
+8f331b2b-481d-4b3f-ad44-e67be5dc558f,Heartland Foods Inc.,Andrew Anderson,andrew.anderson@heartland.com,(446) 420-6781,897 Commerce Dr,Des Moines,IA,Manufacturing
+f54d42dd-8475-4c43-8791-7b1f3a664ad9,Pacific Coast Electronics,Robert Martinez,robert.martinez@pacific.com,(706) 811-8710,4781 Commerce Dr,San Jose,CA,Electronics
+f246fb68-e7b9-42de-a692-b12a8d079c75,Southern Timber Co.,Joshua Smith,joshua.smith@southern.com,(310) 641-3194,4433 Commerce Dr,Savannah,GA,Lumber
+1a6baee9-8ff9-4a0e-8b2b-518722ab1757,Great Plains Agriculture,Matthew Gonzalez,matthew.gonzalez@great.com,(574) 246-7563,938 Commerce Dr,Omaha,NE,Agriculture
+f9cf1940-9f88-4764-b923-f38cf8466478,Northeast Pharma Supply,Kenneth Moore,kenneth.moore@northeast.com,(399) 571-5728,1304 Commerce Dr,Boston,MA,Pharmaceutical
+0cd32495-bf1d-431d-b03e-66c93f64c5d6,Midwest Auto Parts,Anthony Taylor,anthony.taylor@midwest.com,(661) 982-5582,2046 Commerce Dr,Detroit,MI,Automotive
+276dd4f5-bde3-423a-902c-1b5b516ec005,Sunshine Beverages,David Brown,david.brown@sunshine.com,(603) 582-6555,9239 Commerce Dr,Orlando,FL,Beverages
+13e6bd88-d515-4c90-abf4-5adec023f944,Rocky Mountain Mining,Matthew Jones,matthew.jones@rocky.com,(403) 816-9341,6676 Commerce Dr,Billings,MT,Mining
+f877f8f3-e95e-4870-a079-ef0739a9a692,Gulf Petrochemicals,Andrew Johnson,andrew.johnson@gulf.com,(246) 239-3245,5556 Commerce Dr,Beaumont,TX,Chemical
+cfd1df0a-e87f-47de-b4b1-992b92ed47cb,Liberty Steel Works,Paul Taylor,paul.taylor@liberty.com,(667) 352-9446,2390 Commerce Dr,Pittsburgh,PA,Steel
+926f0e31-14d0-45ec-a56c-6b61808514b9,Cascade Paper Products,Daniel Martin,daniel.martin@cascade.com,(526) 366-7438,5002 Commerce Dr,Portland,OR,Paper
+958a9347-1179-4132-90bd-9c703ec20dad,Prairie Grain Cooperative,Kenneth Hernandez,kenneth.hernandez@prairie.com,(719) 721-9721,8125 Commerce Dr,Wichita,KS,Agriculture
+92f840c0-4d02-46d7-a81f-1e8356caa56f,Atlantic Seafood Distributors,Kenneth Martinez,kenneth.martinez@atlantic.com,(686) 217-7035,5527 Commerce Dr,Baltimore,MD,Food
+9305b58e-17a0-4b30-8c8e-eba622bcb970,Desert Solar Components,Michael Wilson,michael.wilson@desert.com,(797) 515-1436,9879 Commerce Dr,Tucson,AZ,Energy
+4e1ef581-730c-4cfc-b0a0-391f7be28174,Appalachian Furniture Co.,Paul Rodriguez,paul.rodriguez@appalachian.com,(871) 994-4728,941 Commerce Dr,Asheville,NC,Furniture
+507499fd-a297-4959-9d0b-5cbb392ea244,Columbia River Produce,Kenneth Thomas,kenneth.thomas@columbia.com,(374) 736-7229,2521 Commerce Dr,Yakima,WA,Agriculture
+73f7211f-ef1d-46c3-baee-668d7af5d099,Bayou Chemical Supply,Joseph Johnson,joseph.johnson@bayou.com,(786) 917-2800,3225 Commerce Dr,Baton Rouge,LA,Chemical
+a507d05c-6ddd-4666-9b23-8ca185fd9f46,Lakeshore Retail Logistics,James Anderson,james.anderson@lakeshore.com,(521) 628-3481,6865 Commerce Dr,Milwaukee,WI,Retail
+d9cb0ba1-f5d6-4e54-918f-71841f6ec00a,Canyon Concrete & Aggregate,Richard Wilson,richard.wilson@canyon.com,(713) 993-8726,1120 Commerce Dr,Flagstaff,AZ,Construction
+62ee513c-591b-4923-87ea-cbb046138f4d,Tidewater Frozen Foods,David Taylor,david.taylor@tidewater.com,(412) 774-6325,7937 Commerce Dr,Norfolk,VA,Food

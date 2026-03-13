@@ -1,0 +1,16 @@
+terminal_id,name,city,state,latitude,longitude,timezone,capacity_trucks,has_maintenance_bay,address
+a5c4021b-5488-4368-9e13-974cfc4357b2,Atlanta Hub,Atlanta,GA,33.749,-84.388,America/New_York,100,True,4606 Industrial Blvd
+932b0a9f-c131-45a8-834f-082694ccde46,Chicago Hub,Chicago,IL,41.8781,-87.6298,America/Chicago,50,True,1779 Industrial Blvd
+8f995c84-607c-4ae0-b0d4-c21ca07f273d,Dallas Hub,Dallas,TX,32.7767,-96.797,America/Chicago,100,True,9035 Industrial Blvd
+bb0b1a88-e634-4f33-8169-e0e767fe3594,Denver Hub,Denver,CO,39.7392,-104.9903,America/Denver,40,True,620 Industrial Blvd
+5d9b2d6b-91f3-4b4a-945d-8da3910babf3,Houston Hub,Houston,TX,29.7604,-95.3698,America/Chicago,40,True,3911 Industrial Blvd
+a7a0e58a-7589-417e-ad15-3e0f6ee4211a,Indianapolis Hub,Indianapolis,IN,39.7684,-86.1581,America/Indiana/Indianapolis,80,True,9295 Industrial Blvd
+a7a73568-5e65-43e1-bf71-2c7cd8483d63,Jacksonville Hub,Jacksonville,FL,30.3322,-81.6557,America/New_York,50,True,9028 Industrial Blvd
+24dd1bd1-f1fc-4307-a497-01a617600cb1,Kansas City Hub,Kansas City,MO,39.0997,-94.5786,America/Chicago,75,True,9754 Industrial Blvd
+b4d6a49a-44d6-4dce-82e0-967b3c2eac4a,Los Angeles Hub,Los Angeles,CA,33.9425,-118.2551,America/Los_Angeles,60,False,206 Industrial Blvd
+8cffe9c5-f13e-4d3e-9794-e4b2f22e808f,Memphis Hub,Memphis,TN,35.1495,-90.049,America/Chicago,50,True,5674 Industrial Blvd
+e1bed69c-5f89-4d1a-ab5f-4f60665b74c2,Nashville Hub,Nashville,TN,36.1627,-86.7816,America/Chicago,60,True,5614 Industrial Blvd
+5d09a17e-b9a6-49b4-b030-c77c1619b8f6,Newark Hub,Newark,NJ,40.7357,-74.1724,America/New_York,40,True,1684 Industrial Blvd
+743c0ff0-e847-402c-8244-4f1429a62e75,Phoenix Hub,Phoenix,AZ,33.4484,-112.074,America/Phoenix,60,False,9991 Industrial Blvd
+04487ae7-0061-4d10-bae0-a8cb11cde667,Salt Lake City Hub,Salt Lake City,UT,40.7608,-111.891,America/Denver,60,False,7627 Industrial Blvd
+bb2ededc-f89e-45a9-b92d-fa760543d230,Seattle Hub,Seattle,WA,47.6062,-122.3321,America/Los_Angeles,80,True,6301 Industrial Blvd
